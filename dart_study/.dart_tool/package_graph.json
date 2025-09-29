@@ -1,0 +1,94 @@
+{
+  "roots": [
+    "dart_study"
+  ],
+  "packages": [
+    {
+      "name": "dart_study",
+      "version": "1.0.0",
+      "dependencies": [
+        "image"
+      ],
+      "devDependencies": []
+    },
+    {
+      "name": "image",
+      "version": "4.5.4",
+      "dependencies": [
+        "archive",
+        "meta",
+        "xml"
+      ]
+    },
+    {
+      "name": "archive",
+      "version": "4.0.7",
+      "dependencies": [
+        "crypto",
+        "path",
+        "posix"
+      ]
+    },
+    {
+      "name": "posix",
+      "version": "6.0.3",
+      "dependencies": [
+        "ffi",
+        "meta",
+        "path"
+      ]
+    },
+    {
+      "name": "path",
+      "version": "1.9.1",
+      "dependencies": []
+    },
+    {
+      "name": "crypto",
+      "version": "3.0.6",
+      "dependencies": [
+        "typed_data"
+      ]
+    },
+    {
+      "name": "typed_data",
+      "version": "1.4.0",
+      "dependencies": [
+        "collection"
+      ]
+    },
+    {
+      "name": "ffi",
+      "version": "2.1.4",
+      "dependencies": []
+    },
+    {
+      "name": "collection",
+      "version": "1.19.1",
+      "dependencies": []
+    },
+    {
+      "name": "meta",
+      "version": "1.17.0",
+      "dependencies": []
+    },
+    {
+      "name": "xml",
+      "version": "6.6.1",
+      "dependencies": [
+        "collection",
+        "meta",
+        "petitparser"
+      ]
+    },
+    {
+      "name": "petitparser",
+      "version": "7.0.1",
+      "dependencies": [
+        "collection",
+        "meta"
+      ]
+    }
+  ],
+  "configVersion": 1
+}
