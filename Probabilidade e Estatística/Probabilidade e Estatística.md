@@ -21,6 +21,8 @@
 ```cpp
 #include <iostream.h>
 
+void Probabilidade_Frequencista()
+
 ```
 
 * **Probabilidade Subjetiva:** medida baseada na crença ou julgamento pessoal sobre a ocorrência de um evento.
