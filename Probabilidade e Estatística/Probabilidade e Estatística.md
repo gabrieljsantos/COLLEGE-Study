@@ -13,7 +13,8 @@
   P(A) = \frac{\text{número de casos favoráveis}}{\text{número total de casos}}
   $$
 
-* **     $$P(A) \approx \lim_{x\to\infty} \frac{Dp+A_j+C+D+S}{R} + \frac{A_{mb}\times R_b}{R_r} +\frac{Fé+deus}{x} $$
+* **  titulo
+   $$P(A) \approx \lim_{x\to\infty} \frac{Dp+A_j+C+D+S}{R} + \frac{A_{mb}\times R_b}{R_r} +\frac{Fé+deus}{x} $$
 
 $Dp$ = Dedicação pessoal.  
 $A_j$ = Ajuda.
