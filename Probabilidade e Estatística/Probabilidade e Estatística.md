@@ -225,17 +225,12 @@ Converte o `void* sample` em `char**`, permitindo manipular o valor como vetor d
   P(A \cap B)
   $$
 
-```cpp
-#include <iostream>
 
-int main(){
-  
-}
-```
+
 * **Complementar:**
   $$
   P(A^c) = 1 - P(A)
-  $$`
+  $$
 
 ## Exemplo em C++: Probabilidade Clássica
 
