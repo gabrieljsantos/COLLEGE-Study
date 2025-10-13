@@ -1,3 +1,11 @@
+```json
+{
+  "aluno": "GABRIEL DE JESUS SANTOS",
+  "matricula": "202500085328",
+  "task_name": "PROGII - Exercício - 01"
+}
+```
+
 ## QUESTÕES - Grupo I: CONTROLE DE FLUXO
 
 > 1.  Um rapaz está sentado à mesa de um bar aguardando a namorada, que está atrasada.Enquanto espera pacientemente, brinca de fazer quadrados com palitos de fósforo comomostra a figura abaixo:
@@ -522,16 +530,16 @@ int main(void) {
     int maior, menor;
 
     // Leitura dos valores
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 10; i++) { // loop de leitura
         printf("Digite o valor %d: ", i + 1);
         scanf("%d", &valores[i]);
     }
 
     // Inicializa maior e menor com o primeiro valor
-    maior = menor = valores[0];
+    maior = menor = valores[0]; // é necessario ter valor para comparar
 
     // Percorre os demais valores
-    for (int i = 1; i < 10; i++) {
+    for (int i = 1; i < 10; i++) { // loop que muda valores se uma condição for satisfeita.
         if (valores[i] > maior) {
             maior = valores[i];
         }
@@ -563,7 +571,7 @@ int main(void) {
         scanf("%d", &valores[i]);
     }
 
-    // Ordenação usando bubble sort
+    // Ordenação usando bubble sort https://pt.wikipedia.org/wiki/Bubble_sort
     for (int i = 0; i < 9; i++) {
         for (int j = 0; j < 9 - i; j++) {
             if (valores[j] > valores[j + 1]) {
@@ -603,14 +611,14 @@ void preencher_array(double array[], int quantidade) {
 int main(void) {
     int n;
 
-    printf("Quantos valores deseja inserir? ");
+    printf("QUantos valores deseja inserir? ");
     scanf("%d", &n);
 
     double valores[n];
 
     preencher_array(valores, n);
 
-    printf("\nValores digitados:\n");
+    printf("\nValores digtados:\n");
     for (int i = 0; i < n; i++) {
         printf("%.2lf ", valores[i]);
     }
