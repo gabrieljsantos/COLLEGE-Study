@@ -18,10 +18,10 @@ $$\text{4 quadrados} = \text{13 Arestas}$$
 
 Então
 
-$$n_q = n_a-3 \therefore n_a = n_q + 3$$ 
+$$ n_a = n_q \times 3  +  1$$ 
 
 Logo:
-$$n_a = 200 + 3$$
+$$ n_a = 200 \times 3  +  1$$ 
 Dessa forma será necessario 203 palitos para chegar ao objetivo.
 
 ---
@@ -86,11 +86,34 @@ a resposta é o item "a":
 ---
 
 > 4. Considerando ( x < 4 ) e ( y < 5 ), avalie as expressões abaixo e classifique o resultado como verdadeiro ou falso:
-a. ( x = 4 ) e ( y = 7 )
-b. ( x < 3 ) ou ( y \neq 7 )
-c. ( x \geq 2 ) e ( y = 5 )
-d. não (( x \neq 2 ) e ( y > 4 ))
-e. ( x < 5 ) e ( y > 2 ) ou ( x \neq 7 )
+
+> $$\text{a. }{( x = 4 ) e ( y = 7 )}$$
+
+Falso, ambos estão fora dos intervalos.
+>$$\text{b. }{( x < 3 ) ou ( y \neq 7 )}$$
+
+Verdade, x está de acordo com enucnciado, menor que 4, e y não sendo 7 não tem implicação negativa.
+>$$\text{c. }{( x \geq 2 ) e ( y = 5 )}$$
+
+Falso, dizendo que y é iguala a 5, ja contradiz com y menor que 5 no enunciado
+>$$\text{d. }{\text{não } (( x \neq 2 ) e ( y > 4 ))}$$
+
+Verdade, como a expressão sugere que y é maior que 4, dessa forma, pode ser quamquer valor maior que 5, cujo pé o limite do enunciado, dessa forma a espressão interna é falsa, como temos uma negação, logo será verdadeiro
+>$$\text{e. }{( x < 5 ) e ( y > 2 ) ou ( x \neq 7 )}$$
+
+Verdade, como temos um "ou", e uma das espressõs comparadas via "ou" é sempre verdade, no caso a de que x é diferente de 7, contempla os intervalos
 
 
 
+Avalie as expressões, indicando o resultado final: **verdadeiro** ou **falso**.
+
+$${a. ( A > 3 ) e ( C = 8 * 4 )}$$
+
+$${b. ( A \neq 2 ) \text{ ou } ( B \leq -2 * (100 \% 5) ) }$$
+
+$${c. ( A = 15 ) ou ( (B \geq 2 ) e ( E \neq "rosa") )}$$
+$${d. ( D + E = \text{"azul amarelo"} )}$$
+
+$${e. ( B > A ) e ( C \neq A )}$$
+
+$${f. ( E \neq D ) ou ( (A > B ) e ( B < (A \% 3)) )}$$
