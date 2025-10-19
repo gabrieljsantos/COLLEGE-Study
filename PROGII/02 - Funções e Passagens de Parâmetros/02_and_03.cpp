@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <conio.h>
+//#include <conio.h>
+//cd "d:\PROJECTS\COLLEGE-Study\PROGII\02 - Funções e Passagens de Parâmetros\" ; if ($?) { g++ 02_and_03.cpp -o 02_and_03 } ; if ($?) { .\02_and_03 }
 
 double raiz_Newton_Raphson(double x){
 	double raiz = 0.0;
@@ -55,7 +56,7 @@ int main(){
             break;
         default:
             printf("Digite qualquer tecla para sair \n\n\n\n...\n...\n\n");
-            getch (); // faz travar e esperar o pressionar de uma tecla qualquer de  <gconio>
+            //getch (); // faz travar e esperar o pressionar de uma tecla qualquer de  <gconio>
             return 0;
         }
     }
