@@ -124,22 +124,28 @@ void mover(int n, char Orig, char Temp, char Dest)
 
 Com a primeira entrada em mover(), dentro do main, temos mover(n, 'O', 'T', 'D'), ou seja, teremos uma tabela :
 
-|ponto de entrada| Profundidade : p | n |Orig | Temp | Dest | Ação / Print |
+M : main
+A : sequancia depois da chamada da função que está no IF
+B : saida para o print do else
+C : Saida geral do else
+|onde saio?| Profundidade : p | n |Orig | Temp | Dest | Ação / Print |
 |-|-|-|-|-|-|-|
-||fora|3| | | |Entrada geral|
-||1|3|O|T|D|verificação do n ==1, segue pro else|
-||1|3|O|T|D|dentro do else, chamou para p = 2, com n =2|
-||2|2|O|D|T|verificação do n ==1, segue pro else|
-||2|2|O|D|T|dentro do else, chamou para p = 3, com n =1|
-||3|1|O|T|D|verificação do n ==1, entra no if|
-||3|1|O|T|D|dentro if, imprime "Mova o disco 1 da haste O para a haste D"|
-||3|1|O|T|D|Primeira saida da Função, indo para p = 2, todos os dados de p =3 são abandonados|
-||2|2|O|D|T|vai para exatamnete para depois da primeira chamada da função no else, com p = 2|
-||2|2|O|D|T|dentro else, imprime "Mova o disco 2 da haste O para a haste T"|
-||2|2|O|D|T|dentro else, chama a função pela segunda vez, entrando em p = 3 e n = 1|
-||3|1|D|O|T|verificação do n ==1, entra no if|
-||3|1|D|O|T|dentro if, imprime "Mova o disco 1 da haste D para a haste T"|
-||3|1|D|O|T| saida da função do if p = 3, passando direto sob o else, indo para p = 2, e frame da profundidade 3 é removido da pilha de execução|
+|||3| | | |Entrada geral|
+|M|1|3|O|T|D|verificação do n ==1, segue pro else|
+|M|1|3|O|T|D|dentro do else, chamou para p = 2, com n =2|
+    |B|2|2|O|D|T|verificação do n ==1, segue pro else|
+    |B|2|2|O|D|T|dentro do else, chamou para p = 3, com n =1|
+        |B|3|1|O|T|D|verificação do n ==1, entra no if|
+        |B|3|1|O|T|D|dentro if, imprime "Mova o disco 1 da haste O para a haste D"|
+        |B|3|1|O|T|D|Primeira saida da Função, indo para p = 2, e frame da profundidade 3 é removido da pilha de execução|
+    |B|2|2|O|D|T|vai para exatamnete para depois da primeira chamada da função no else, com p = 2|
+    |B|2|2|O|D|T|dentro else, imprime "Mova o disco 2 da haste O para a haste T"|
+    |B|2|2|O|D|T|dentro else, chama a função pela segunda vez, entrando em p = 3 e n = 1|
+        |C|3|1|D|O|T|verificação do n ==1, entra no if|
+        |C|3|1|D|O|T|dentro if, imprime "Mova o disco 1 da haste D para a haste T"|
+        |C|3|1|D|O|T|saida da função do if p = 3, passando direto sob o else, indo para p = 2, e frame da profundidade 3 é removido da pilha de execução|
+    |B|2|2|O|D|T|saida da função do if p = 2, indo direto para fim da função, indo para p = 1, e frame da profundidade 2 é removido da pilha de execução|
+|M|1|3|O|T|D|dentro do else, chamou para p = 2, com n =2|
 
 
 
