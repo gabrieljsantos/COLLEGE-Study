@@ -1,0 +1,776 @@
+alcides@academico.ufs.br
+
+MCj04326800000[1]
+
+Roteiro
+
+◼ Tipos Abstratos de Dados
+Tipo de Dados
+Tipos Abstratos de Dados
+Tipos Abstratos de Dados Definidos pelo Usuário
+
+◼ TAD
+Lista
+Pilha
+Fila
+
+2/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+1
+
+...
+
+Tipos Abstratos de Dados
+Tipo de Dados
+Tipos Abstratos de Dados
+Tipos Abstratos de Dados Definidos pelo Usuário
+
+Tipos de Dados
+◼ Quando se fala sobre um tipo primitivo , na verdade
+está se referindo a duas coisas:
+Um item de dados com certas características
+Operações permitidas nessas dados
+
+◼ Tipos simples de dados são grupos de valores
+indivisíveis (como os tipos básicos integer, boolean,
+char e real do Pascal).
+• Exemplo: uma variável do tipo boolean pode assumir o valor
+verdadeiro ou o valor falso, e nenhum outro valor.
+
+◼ Os Tipos Estruturados
+Em geral definem uma coleção de valores simples, ou um
+agregado de valores de tipos diferentes.
+4/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+2
+
+Tipos Abstratos de Dados
+
+◼ Um TAD é um encapsulamento que inclui
+somente a representação de dados de um tipo
+específico de dado e os subprogramas que
+fornecem as operações para esse tipo
+Detalhes desnecessários do tipo podem ser ocultados
+das unidades fora do encapsulamento que o usam
+As unidades de programas que usam dados abstratos
+podem declarar variáveis desse tipo
+
+5/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+Tipos Abstratos de Dados
+◼ Motivação
+Diminuir a complexidade, um meio de tornar programas
+grandes e/ou complicados mais manejáveis
+Método de organizar um programa em unidades lógicas que
+podem ser compiladas separadamente
+Permite que modificações nas representações ou operações
+do tipo sejam feitas em única área do programa
+
+A interface para a abstração representa alguns, mas não
+todos, os seus atributos e operações
+Confiabilidade
+Modificações podem ocorrer a qualquer hora sem exigir
+mudanças no cliente.
+• Exemplo: alteração do TAD de representação por adjacência
+para encadeada.
+6/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+3
+
+Tipos Abstratos de Dados
+Definidos pelo Usuário
+◼ Um TAD é um tipo de dado que satisfaz as duas
+condições seguintes:
+A representação ou a definição do tipo e as
+operações sobre objetos do tipo estão contidas em
+um única unidade sintática.
+A representação de objetos do tipo não é visível
+pelas unidades de programa que usam o tipo, de
+modo que as únicas operações diretas possíveis
+sobre esse objetos são aquelas oferecidas na
+definição do tipo.
+7/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+...
+
+TADs
+Listas Lineares
+
+4
+
+TAD – Listas Lineares
+Definição
+◼ Seqüência de zero ou mais itens x1,x2,...,xn, na
+qual xi é de um determinado tipo e n representa
+o tamanho da lista linear.
+◼ Sua principal propriedade estrutural envolve as
+posições relativas dos itens em uma
+dimensão.
+Assumindo n ≥ 1, x1 é o primeiro item da lista e xn é o
+último item da lista.
+xi precede xi+1 para i = 1,2,..,n–1
+xi sucede xi-1 para i = 2,3,...,n
+o elemento xi é dito estar na i-ésima posição da lista.
+9/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares
+Aplicações
+◼ Lista de Pagamentos
+Prestação do carro
+Cartão de crédito
+Conta de luz
+Condomínio
+TV a cabo
+Prestação do crediário
+
+10/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+5
+
+TAD – Listas Lineares
+Operações
+◼ O conjunto de operações a ser definido depende de cada
+aplicação.
+◼ Um conjunto de operações a ser disponibilizada ao cliente
+neste exemplo serão as seguintes:
+Cria
+(Lista);
+InsereInicio
+(Lista,Item);
+InserePosicao
+(Lista,p,Item);
+InsereFinal
+(Lista,Item);
+RemoveInicio
+(Lista);
+RemoveFinal
+(Lista);
+Pesquisa_Remove (Lista,Item);
+Imprime
+(Lista);
+
+11/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas
+Lineares
+
+Implementação por meio de Arranjos
+
+6
+
+TAD – Listas Lineares
+Implementação por meio de Arranjos
+◼ Os itens da lista são armazenados em posições contíguas de
+memória.
+◼ A lista pode ser percorrida em qualquer direção.
+◼ A inserção de um novo item pode ser realizada após o último
+item com custo constante.
+◼ A inserção de um novo item no meio da lista requer um
+deslocamento de todos os itens localizados após o ponto de
+inserção.
+◼ Retirar um item do início da lista requer um deslocamento de
+itens para preencher o espaço deixado vazio.
+
+13/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares
+Implementação por meio de Arranjos
+
+Itens
+Primeiro = 1
+
+x1
+
+2
+
+x2
+...
+
+Último – 1
+
+xn
+...
+
+TMax
+
+14/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+7
+
+TAD – Listas Lineares
+Implementação por meio de Arranjos
+◼ Os itens são armazenados em um array de
+tamanho suficiente para armazenar a lista.
+◼ O campo Último aponta para a posição
+seguinte a do último elemento da lista.
+◼ O i-ésimo item da lista está armazenado na
+i-ésima posição do array, 1 ≤ i ≤ Último.
+◼ A constante TMax define o tamanho máximo
+permitido para a lista.
+15/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares - Implementação por meio de Arranjos
+
+◼ Estrutura em C
+const int Tmax = 10;
+typedef int Apontador;
+typedef struct {
+int Chave;
+/*outros componentes*/
+} TInfo;
+typedef struct {
+TInfo Item[Tmax];
+Apontador Primeiro;
+Apontador Ultimo;
+} TLista;
+
+16/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+8
+
+TAD – Listas Lineares - Implementação por meio de Arranjos
+◼ Subrotinas Interface
+
+Cria
+(Lista);
+InsereInicio
+(Lista,Item);
+InserePosicao
+(Lista,p,Item);
+InsereFinal
+(Lista,Item);
+RemoveInicio
+(Lista);
+RemoveFinal
+(Lista);
+Pesquisa_Remove (Lista,Item);
+Imprime
+(Lista);
+deslocamento
+17/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares - Implementação por meio de Arranjos
+void InsereInicio (TLista& Lista, TInfo Item)
+{
+if (Cheia(Lista))
+cout << "Erro: A lista está cheia" << endl;
+else
+{
+for (int aux=Lista.Ultimo; aux>=Lista.Primeiro+1; aux--)
+Lista.Item[aux] = Lista.Item[aux-1];
+Lista.Item[Lista.Primeiro] = Item;
+Lista.Ultimo++;
+}
+}
+18/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+9
+
+TAD – Listas Lineares - Implementação por meio de Arranjos
+Tmax = 10
+
+Lista
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+item 15
+
+2
+
+40
+
+5
+
+14
+
+18
+
+31
+
+25
+
+primeiro
+
+0
+
+ultimo
+
+8
+
+InsereInicio
+
+Lista
+
+item
+
+8
+
+9
+
+(Lista,Item); //item.chave := 0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+0
+
+15
+
+2
+
+40
+
+5
+
+14
+
+18
+
+31
+
+25
+
+primeiro
+
+0
+
+ultimo
+
+9
+
+19/110
+
+9
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares
+Implementação por meio de Arranjos
+◼ Vantagem
+economia de memória (os apontadores são implícitos
+nesta estrutura).
+
+◼ Desvantagens:
+custo para inserir ou retirar itens da lista, que pode causar
+um deslocamento de todos os itens, no pior caso;
+em aplicações em que não existe previsão sobre o
+crescimento da lista, a utilização de arranjos em linguagens
+como o Pascal pode ser problemática porque neste caso o
+tamanho máximo da lista tem de ser definido em tempo
+de compilação.
+20/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+10
+
+TAD – Listas
+Lineares
+
+Implementação por meio de
+Apontadores
+
+TAD – Listas Lineares
+Implementação por meio de Apontadores
+◼ Cada item é encadeado com o seguinte
+mediante uma variável do tipo Apontador.
+◼ Permite utilizar posições não contíguas de
+memória.
+◼ É possível inserir e retirar elementos sem
+necessidade de deslocar os itens seguintes da
+lista.
+
+22/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+11
+
+TAD – Listas Lineares
+Implementação por meio de Apontadores
+◼ Há uma célula cabeça para simplificar as operações sobre a lista.
+◼ A parte info desse nó poderia fica sem uso, conforme abaixo.
+◼ Porém pode ser usado para manter informações globais sobre a
+lista inteira.
+célula cabeça
+
+LISTA.
+
+Primeiro
+próximo
+
+Último
+
+x1
+
+x2
+
+...
+
+xn
+
+próximo
+
+próximo
+
+próximo
+
+nil
+
+23/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+
+◼ Estrutura em C
+typedef struct NodoLista *Apontador;
+typedef struct {
+int Chave;
+/*outros componentes*/
+} TInfo;
+struct NodoLista{
+TInfo Item;
+struct NodoLista *Proximo;
+};
+typedef struct {
+struct NodoLista *Primeiro;
+struct NodoLista *Ultimo;
+} TLista;
+24/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+12
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+◼ Subrotinas Interface
+
+Cria
+(Lista);
+InsereInicio
+(Lista,Item);
+InserePosicao
+(Lista,p,Item);
+InsereFinal
+(Lista,Item);
+RemoveInicio
+(Lista);
+RemoveFinal
+(Lista);
+Pesquisa_Remove (Lista,Item);
+Imprime
+(Lista);
+nenhum deslocamento
+25/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+void InsereInicio (TLista& Lista, TInfo Item) {
+Apontador p = (Apontador) malloc(sizeof(struct NodoLista));
+
+p->Item = Item;
+p->Proximo = Lista.Primeiro->Proximo;
+Lista.Primeiro->Proximo = p;
+if (p->Proximo == NULL)
+Lista.Ultimo = p;
+}
+
+26/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+13
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+
+LISTA.
+
+Primeiro
+Último
+próximo
+célula cabeça
+
+15
+
+2
+
+40
+
+5
+
+próximo
+
+próximo
+
+próximo
+
+próximo
+
+14
+
+18
+
+31
+
+25
+
+próximo
+
+próximo
+
+próximo
+
+nil
+
+27/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+InsereInicio (Lista,Item); //item.chave := 0
+P
+
+LISTA.
+
+Primeiro
+Último
+0
+próximo
+célula cabeça
+
+próximo
+
+15
+
+2
+
+40
+
+5
+
+próximo
+
+próximo
+
+próximo
+
+próximo
+
+14
+
+18
+
+31
+
+25
+
+próximo
+
+próximo
+
+próximo
+
+nil
+
+28/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+14
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+void RemoveInicio (TLista& Lista) {
+if (Vazia(Lista))
+cout << "Erro : A lista está vazia.\n" << endl;
+else {
+Apontador p = Lista.Primeiro->Proximo;
+cout << "Elemento Removido=" << p->Item.Chave << endl;
+Lista.Primeiro->Proximo = p->Proximo;
+if (Lista.Primeiro->Proximo == NULL)
+Lista.Ultimo = Lista.Primeiro;
+free(p);
+}
+}
+
+29/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+
+LISTA.
+
+Primeiro
+Último
+0
+próximo
+célula cabeça
+
+próximo
+
+15
+
+2
+
+40
+
+5
+
+próximo
+
+próximo
+
+próximo
+
+próximo
+
+14
+
+18
+
+31
+
+25
+
+próximo
+
+próximo
+
+próximo
+
+nil
+
+30/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+15
+
+TAD Listas Lineares - Implementação por meio de Apontadores
+RemoveInicio (Lista);
+P
+LISTA.
+
+Primeiro
+Último
+0
+próximo
+célula cabeça
+
+próximo
+
+15
+
+2
+
+40
+
+5
+
+próximo
+
+próximo
+
+próximo
+
+próximo
+
+14
+
+18
+
+31
+
+25
+
+próximo
+
+próximo
+
+próximo
+
+nil
+
+31/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+TAD – Listas Lineares
+Implementação por meio de Apontadores
+◼ Vantagens:
+Permite inserir ou retirar itens do meio da lista a um
+custo constante (importante quando a lista tem de
+ser mantida em ordem).
+Bom para aplicações em que não existe previsão
+sobre o crescimento da lista (o tamanho máximo da
+lista não precisa ser definido a priori).
+
+◼ Desvantagem: utilização de memória extra para
+armazenar os apontadores.
+
+32/110
+
+UFS – Estrutura de Dados I – Prof. Alcides Xavier Benicasa
+
+16
+
+

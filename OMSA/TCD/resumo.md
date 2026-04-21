@@ -1,0 +1,3 @@
+## Resumo
+
+O trabalho analisa a implantação de um Sistema de Informação Gerencial (SIG) na Crescer Microcrédito LTDA, destacando a transição de processos manuais para um fluxo padronizado e automatizado com Power BI, SharePoint e Power Automate. A partir de entrevistas e discussões, foram avaliados os métodos administrativos, os impactos sobre pessoas, processos e tecnologia, e os resultados alcançados, como maior eficiência, qualidade dos dados e agilidade na tomada de decisão. O estudo também aborda a adaptação dos colaboradores, a importância do treinamento e as dificuldades enfrentadas, reforçando a relevância do alinhamento entre pessoas, processos e tecnologia para o sucesso organizacional.

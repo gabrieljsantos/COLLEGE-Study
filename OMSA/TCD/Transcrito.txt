@@ -1,0 +1,324 @@
+(Transcrito por TurboScribe.ai. Atualize para Ilimitado para remover esta mensagem.)
+
+Aí depois, o próprio dono da PC micro-operator, o Renan, ele tinha o SharePoint, que aí o SharePoint é como se fosse a versão do OneDrive profissional. E aí atualiza lá no servidor da Microsoft automaticamente. E também foi utilizado... Ixi, agora eu não vou lembrar o nome, velho, do negócio.
+
+É no seu... Pessoal. Personal alguma coisa que faz a automatização dos gatilhos. Por exemplo, você tem um limite de atualização da base de dados por dia.
+
+E você tem que mandar o gatilho, ou então configurar o horário para essa base de dados atualizar. Mas vamos dizer que você está em uma reunião e você quer mostrar para os seus clientes ela atualizada no momento. Como é que você faz isso, sendo que agora não é a hora do gatilho ser jogado? Aí eu configurei um gatilho de e-mail, quando você mandava lá atualizar o dashboard, ele atualizava na mesma hora.
+
+Entendi. Mas assim, tempo de dificuldade ainda tiveram mais que essa. Se for, dá.
+
+É quando você leva uma base que o pessoal apresentou, tá ligado, na aula passada. É, como eu falei para o senhor, se você arrumar muito, pode continuar. Só um ponto.
+
+Assim, se teve alguma dificuldade em relação a... Como é que eu posso falar? Alguém dúvida desse tipo de trabalho. O que tem a ver com você conseguir se ajustar a esse novo programa, digamos assim. Uma nova ferramenta.
+
+Pronto. O pessoal falou? O pessoal falou muito isso na aula passada, tá ligado? Acho que é bom. Pronto.
+
+Lá, no caso, eu acho que eram nove funcionários. Eram nove funcionários da empresa, da outra era sete. O oito, eu não lembro, entendeu? Mas foi o seguinte.
+
+Em termos dos agentes de microcrédito, que eram quem utilizava a ferramenta, eles não tiveram dúvidas. Por quê? Porque utilizar um dashboard, ele já é feito para isso. O Power BI já é feito para você utilizar a ferramenta.
+
+E todo mundo hoje em dia, por estar próximo da tecnologia, consegue utilizar um aplicativo de um celular. Eles olhavam no celular, simplesmente. Quem utilizava no computador era eu, porque fazia desenvolvimento.
+
+O dono, e aí tem a terceira pessoa, que dependia diretamente dela, a questão de alimentar a base de dados. Que era a administrativa dele, do dono da empresa microcrédito. Aí, a que mais sofria realmente era ela, em questão de adaptação.
+
+Porque, por exemplo, nem todo mundo tem afinidade com Excel. E simplesmente tudo era alimentado lá com Excel. Aí, por exemplo, se você colocasse um número de contrato repetido, já bugava tudo.
+
+Bugava não, não funcionava. Simplesmente o dashboard não atualizava. Aí sinalizava lá e ela já me procurava, entendeu? Aí, cada vez mais, eu fui criando mecanismos para não acontecer isso.
+
+Por exemplo, quando repetir o contrato, eu vou sinalizar para quando aparecer um contrato repetido aqui na coluna, ficar em vermelho. Porque assim que você botar e ficar em vermelho, você já sabe, só retirar. Não acontece de novo.
+
+Aí eu ia criando mecanismos, entendeu? Mas a que mais sofria não era o usuário final. Era simplesmente a menina que alimentava a base de dados. Então, gostei. 
+
+Dá para encaixar legal. O bug ficou dois lados. Por exemplo, tem o pessoal que ficou de bug, que já era mais acostumado com esse tipo de coisa.
+
+Tem o pessoal que não conseguiu se adaptar muito bem. Sim. O que é bom, pô, era se tivesse ainda.
+
+Foi porque já acabou, né? Se tivesse ainda no celular. Quem tinha até um dia desse, eu mostrei ao membro. Você tem as fotos para mandar? Manda aqui no celular aí.
+
+Deixa eu mandar a foto que eu estava falando. Aqui no canal está de boa. O Gabriel falou que criou um link, eu pensei que ele tinha feito já um negócio.
+
+Cara, tem uma Lari Santos aqui no H2. Ele criou um link, pô. Ele criou um link.
+
+Só para a gente editar lá, tá bom? Ele criou um link, eu não acredito que ele criou só um link. Nada, eu não fiz nada. Ou porque tem o Carva Pro, pô.
+
+Aí o Carva Pro permite todo mundo editar, não é não? É normal, não faz isso. Eu só pensei em um link. E a questão é, tem uma Lari Santos.
+
+Quem é a Lari Santos aqui? Lari Santos, quer dizer. É a esposa dele. É a esposa do Gabriel, né? Mas não é a esposa dele.
+
+Ah, tá. Ah não, tá ok, então. Tá montada, né? O Gabriel tá casado já, pô.
+
+Peguei em casamento. Ei, velho. Eu vou mandar no grupo mesmo lá fora.
+
+O PDF fica mais fácil para mim. Porque eu tenho ele embaixo, tá? Agora... Deixa eu ver se eu acho aqui um vídeo aqui. Porque eu só tenho... Na conversa com o dono lá, né? Aí tem que... Eu quero que eles tenham os dados, mas eles não tenham... Não tenham esses dados do Itaú.
+
+Sim, basicamente eles tinham o Itaú. Porque eu achava isso até amadoríssimo. Tipo, da parte do Itaú.
+
+Você... Tem pessoas que trabalham para você. Porque é tipo assim, o patrão, o dono dessa empresa, ele é vinculado a uma franquia do Itaú, né? Aí ele é como se fosse funcionário. Ele tem outros funcionários, mas ele é funcionário do Itaú, entendeu? E o Itaú tem uma infraestrutura a nível de América Latina, né? Aí eu achei... Eu disse, o sistema dos caras vai passar bom, né, pô? Vai ser bom.
+
+Aí tipo, os caras tinham um sistema lá que... Na hora que mostrava, tipo... Ah, vamos dizer, agente microcrédito... Verlan, né? Aí aparecia lá um monte de contrato dela. A soma de tudo lá, mas não dizia nada, pô. Não tava transformado em algo que ajudasse a tomar uma decisão.
+
+Num gráfico, né? É, num gráfico, basicamente. Igual o modelo. Deixa eu expulsar esse moleque daqui, velho.
+
+Entreguei esse chefe. Que porra é essa, velho? Vai lá pro outro macarrão, enxerga. É, calma, entrou ele comandando o... Sim, deixa eu mandar o simulador do DRV.
+
+Também. Ô, ô, ô... Ô Igor, aí pode mostrar esse pilar, com certeza? Rapaz, é porque, então... Aí eu ia tirar os dados, né, assim... Provavelmente tirar os valores, os negócios. Acho que não pode mostrar esse pilar, né? Não, assim... No jeito que tá aí, não teria problema.
+
+Não teria problema. Porque aí só tá mostrando... É... De um mês aí que já passou, ninguém sabe qual é o ano. Entendeu? Não, mas eu vou tirar os valores daqui.
+
+Vou tirar os valores daqui. Não, mas o DRV seria mesmo tirar os valores, então. Do campo.
+
+Então, pelo menos os valores em reais aqui eu vou tirar. Os negócios vocês podem deixar. Mas nem apareceu na liplência nem maquininhas que era pra ter aparecido.
+
+Mas é até bem um aparecer. Porque se aparece na liplência, aí fica um... Assim, o dado já realmente fica... Sim, sim, imagino. Então aí eu vou... Eu vou... Eu vou apagar só os números.
+
+Eu vou colocar uma taxazinha pra você ver os números no slide. Mas eu coloco isso aí no slide mesmo. Eu também posso.
+
+Eu acho que eu consigo aqui gerar. Porque eu tenho um arquivo. Aí eu faço uma base fake aqui.
+
+Boto os valores que eu quiser também. Eu consigo mostrar. Deixa eu compartilhar aqui a tela.
+
+Antes disso, peraí. Deixa eu enviar logo um outro do simulador. Aí eu não sei.
+
+Vocês vão querer que eu coloque um outro do simulador do DRV? Eu coloquei. O simulador DRV do Excel. Porque quando eles me contrataram... Contrataram não.
+
+Quando eu prestei esse serviço, aí eles pediram pra fazer esse simulador DRV. Foi junto também. E o que seria isso lá no DRV? Por exemplo, caso o... O agente ele bata tal meta, aí tem os pesos pra cada tipo de meta que ele bateu.
+
+E aí é calculado o salário. Entendi. Não sei.
+
+Não sei se precisam mostrar isso. Eu tô vendo aqui a descrição aqui do projeto. Do trabalho pra ver.
+
+Aqui eu tô vendo a descrição de cada item. Mencionando. E o roteiro que ele teve isso aplicado.
+
+Lá na descrição a atividade de cada participante do grupo. O que que é isso aqui, cara? Tem que ter algum documento aqui sério, tá? Não adianta pôr isso aqui. Ou o Envair vai achar de menos.
+
+Eu quero saber quem foi que... Deu essa ideia de fazer trabalho, véi. Você preferia a prova mesmo, véi? Ah, mano, eu preferia, véi. Não é lógico.
+
+Pega aí o percentual do negócio. Vai lá no canal AMSA. Lê lá o negócio de trabalho que não é percentual.
+
+Muitas coisas pra pegar, véi. Rapaz, só porque é pra finalizar um pedido aí, né véi? Aí não é se fode. Pois é, véi.
+
+Só porque diz de quê? Tem lá dois pontos, eu acho. Menos de dois, véi. Pô, mas é de 7.1 ou não? Eu preciso de 7.1, porque eu já passei da asfalta, pô.
+
+Então, isso aqui vale a nota. Pois é, você consegue. Porra, porque... Assim, eu não sei se ela vai... Ah, não.
+
+No caso, se você tirar 7.1, você aumenta, né? A asfalta. Porque você não é pronto por completo. Mas você consegue... Você vai ser o... Vai ser participante, integrante do grupo e vai ser o entrevistado.
+
+Então você vai ter muita propriedade pra falar. Então você vai... Só isso não importa, lá. Foi assim que eu fiz na prova.
+
+Vamos ver, né? Se ela vai... Sei lá. Ó, mandei o... Eita, foi com duas páginas. Ah, porra.
+
+Mas dá pra ver aí. Agora isso tá... Desmaiou, né? Desmaiou. É pra calar ele, né?
+
+(Transcrito por TurboScribe.ai. Atualize para Ilimitado para remover esta mensagem.)
+
+
+(Transcrito por TurboScribe.ai. Atualize para Ilimitado para remover esta mensagem.)
+
+Não sei o que ele ia falar, velho. Mesmo que eu tirasse os quatro, acertasse todas as questões, ia ficar faltando nove décimos, ela não ia dar, não. E a gente pensava que ela fazia aula no ponto de olho pra ela.
+
+É, parece. Não digo, velho. Não digo.
+
+Não. Não dá, velho. Faça o Charming pra ela, Augusto.
+
+Pra quem? Pra professora. Não. É muito ruim.
+
+Cara, vale a pena bastante jogar o Charming em cima da professora, velho. Eu faria isso. Rapaz, aquela professora é avião, porra.
+
+Não tá claro de quem cairia, não. Não precisava nem de ponto, né? É, velho. É, ajuda ela.
+
+Porra, velho. Ah, é. É da hora. Devolveu, né? Agora eu tenho aqui.
+
+Eu tenho a própria planilha aqui, dá pra mexer, tipo, lá, pra mostrar, entendeu? Não tem problema não de mexer nela, porque só é alterar aqui os dados pra deixar algo feitíssimo. Não, é desse aí que você manda usar pra tirar uns 3 metros, legal. Esse aqui já faltou, dá uma concentração.
+
+Só pra mostrar. Mostrar como é o menu em cima da empresa, né? Como ela quer aqui na descrição aqui das coisas, ela explica o time plantado. E ela quer também que a gente fale um pouquinho sobre a empresa em si, tá ligado? Então, isso é o que a gente usa na preparação oral, na hora de falar sobre a empresa.
+
+Mas, assim, ô Igor. Teve um que de informalidade, não? Nesse contrato que fizeram contigo. Essa prestação de serviço.
+
+Nossa. Não, tipo, não foi uma prestação de serviço com o contrato mesmo não, entendeu? Então, porque aqui... Porra. Não sei se você chegou a ver, acho que é canal MSA, né? Aí no Discord.
+
+Aqui. Você postou, aí. Ela coloca o vídeo que é necessário, né? Pra gente entrar no trabalho.
+
+Aí o item dele, ela fala. Mencionar a documentação levada em consideração para a elaboração do sistema. Aí, no nosso caso, não seria muito essa documentação, né? Não, só que, tipo, documentação pra elaborar o sistema, aí é foda.
+
+Aí eu vou ter que baixar. Então, a documentação do Power BI, pô, pra mandar, aí é foda. Não, ninguém mostrou.
+
+Nenhum grupo mostrou essa documentação aí, não. Mas o organograma, o pessoal mostrou, né? A estrutura lá? Não, também. Disseram que tinha, só.
+
+Alguém mostrou lá. Rapaz, não vou mentir, não. Nessa empresa aí que eu trabalho, não tinha porra de organograma, não.
+
+Tem que entender que é porque os meninos pegaram, pô. Daí a empresa do MSA se fechou, né, porra. É outro nível também, os caras pegando.
+
+E o cara não comprou. Podia causar, como exemplo, ou isso mesmo. Porque ele tá precisando da autorização do próprio grupo, né? É, eu não disse o que eu queria, não é, velho? Ô, Igor, mas vamos pensar assim.
+
+Não tem organograma. Mas se a gente mostrar algo informal que se assemelhou ao organograma, e falar que não tinha, e até você pode demonstrar algum ponto ruim de não ter, porque a gente tá citando alguma coisa que ela espera, só que não declarando que tem, mas falando que não tem, né? A gente tá abordando o conteúdo. Pode ser, pode ser, pode ser.
+
+Mas aqui, por exemplo, nesse item tem detalhar estrutura, organograma. Só que ela coloca com responsabilidade caso não haja o desenho. Ou seja, caso não haja o... Então, tipo, a responsabilidade tem que sair, né? Tipo, não esquecer.
+
+Então, tem que botar, por exemplo, nome dos carros, dos funcionários, esse tipo de coisa, né? Daí... Tipo, o que você mencionou da mulher lá, que ela era responsável por... É... É por isso que eu acho. Lá tinha os seguintes carros. Tinha o dono mesmo, aí tinha a assistente administrativa, que fazia a alimentação do dashboard, e tinha outras funções também, como computar e tudo.
+
+É... Administração não. No caso, a administração do dashboard, quem fazia era ele, né? Ela fazia computar as informações e outras coisas que ela fazia externo a mim também, que eu não vou saber dizer. Tipo, ela fazia do trabalho dela em si, que aí também eu não sei, né? Porque a minha parte lá era a parte do ITI, de fazer o dashboard.
+
+Mas, enfim. Ela fazia a parte administrativa. É... Aí tinha os aspirantes, que eram os... Agentes de microcréditos novos.
+
+Era como se fosse o... Assim, uma estrutura de estágio. Mas sem ser estágio. Já um junho, já.
+
+Tá iniciando e tá pegando a manha. Com o salário um pouquinho reduzido. Aí tinha os níveis de especialista de microcrédito.
+
+Especialista 1 recebia um salário um pouco menor do que o seguinte, que é o 2. E o 2 um pouco menor que o seguinte, que é o 3. E depois o coordenador, que era a última estrutura antes do dono. Ou seja, é como se fosse... É... Em formato de organograma mesmo, sei lá. O dono.
+
+Aí depois, duas vertentes. Administrativa e a coordenação. E da coordenação desses outros ramos, que seria dos especialistas e o aspirante.
+
+Entendeu? Tá? Pra botar isso aí mesmo. Pronto. A gente já tem, então... Processo.
+
+Ainda tá mais pior do que eu pensei. Oi? Não. A ideia é fazer com menos gente, né? Mas a gente falou que, geralmente, as pessoas de um grupo... Aí é mais ou menos o certo mesmo.
+
+O que o pessoal falou? O que o pessoal avisou? Teve resistência na importação do sistema. Teve resistência na importação do sistema. Aí o outro grupo foi a mesma coisa.
+
+Aí importou isso aqui. Teve resistência na importação do sistema. No nosso caso aqui, não teve resistência, então, pelo que você tá dizendo.
+
+Porque... Eu achei que tinha. Eu também era quem... O usuário pegou mastigado, né? Porque... Assim, vamos dizer... Sei lá, vou dar um exemplo. De um sistema de caixa de supermercado.
+
+As pessoas que vão pegar esse sistema... Vão estar no mesmo nível de dificuldade que a administrativa esteve. Nesse sentido do que eu tô falando. Por quê? Porque é ele que vai estar responsável, que botará as informações e tudo isso.
+
+Lá só tem essa responsabilidade ela. Os outros só têm a responsabilidade de visualizar. Já tudo mastigado.
+
+Que é o que o dashboard faz. Mas... De novo. Antes, o dashboard não tinha nada.
+
+Então, ele não tinha nenhum sistema. Rapaz... Antes do dashboard, eles já tiveram um dashboard. Que, inclusive, o cara parece que trabalha na empresa que eu trabalho.
+
+Na ideia elétrica. Hoje em dia. O nome dele é Bruno.
+
+Só que aí... O dashboard, eles estavam reclamando que tava tudo errado as informações. Tipo, não condiziam. O cara fez... A base do cara também era no Excel.
+
+Mas as fórmulas estavam todas bagunçadas. Aí, tipo, era uma ferramenta... Eles já tiveram um sistema. Para esse tipo de serviço.
+
+De função. E você encontrou outro. Entendi.
+
+Interessante isso. Por que que ela... No item F, ela diz. Analisar a mudança organizacional.
+
+Após importação de sistemas. Total. Evidência do usuário.
+
+Necessidade de treinamento. Então... Ah, esse que o pessoal falou muito também. Então não teve necessidade de treinar ninguém.
+
+Assim... Na realidade... Eu fui o que foi treinado, né? Aprendi na prática. Mas não foi treinado por alguém, né? Tipo, me deram uma oportunidade. E eu fui fazendo uma coisa que eu nunca tinha feito.
+
+Entendi, entendi. É porque como você era que... Coordenava tudo ali. Você era o único que usava esse conhecimento, né? É, então.
+
+Mas não tem nem como citar isso. Não tem nem como, felizmente. Entendi.
+
+De treinamento lá. Quem fazia o treinamento era o próprio dono. Porque... Ele já tinha experiência com microcredito.
+
+Já tinha sido coordenador do Credem Amigo. Do Nossa Senhora da Glória. Tudo aí.
+
+Tem experiência de anos. Aí, quando... Entrava na empresa. Quem fazia o treinamento era ele mesmo.
+
+Ah, e aqui ela metia também. Eu acredito, né? Necessidade de treinamento. Você falou que não precisou.
+
+Nem dá pra citar. Mas ela falou também aqui. Melhoria na tomada de decisões.
+
+Eu acredito que esse é o principal... Pronto. Essa foi a principal... O principal problema que eu resolvi. Que foi... Essa ferramenta que eu criei é basicamente uma ferramenta para a tomada de decisões.
+
+Transformar dados em tomadas de decisões. Entendi. Basicamente é isso.
+
+A essência. Sim. Ó, aí dá pra explicar a ferramenta.
+
+Pronto. Aí, se vocês puderem entrar aí na foto. É porque essa foto é só uma foto congelada.
+
+Não é algo interativo. Não é pra ver usando. Mas aí, você vai ver que no gráfico lá de cima.
+
+Tem quatro barras. É porque no exemplo da foto só tem duas. Não aparece a inadimplência nem as maquininhas.
+
+Mas é o que? É o gráfico de barras. E mostra por dia. É... Quatro... Quatro valores.
+
+O de operações. Quantas operações foram feitas naquele determinado dia. Quanto de desembolso.
+
+Quanto de inadimplência. Que é um... Uma grandeza que... O ideal é que diminua, né? Sempre. E o quanto de maquininhas foi vendida.
+
+Por quê? É... Nesse caso não dá pra ver. Mas, por exemplo. Se não tivesse sido feito nada no dia dois.
+
+O dia dois nem ia aparecer. Já ia ficar via um e três. Simplesmente por quê? Porque quando o coordenador.
+
+Ou o dono. É... Da empresa vice. É... Todos esses... Esses... Números.
+
+Todos esses... É... Esses dados computados. Ele ia dizer assim. Ó. Mas você trabalhou.
+
+Dia dois. Três. Quatro.
+
+E você não produziu nada. Por quê? Simplesmente. Ele não ia passar.
+
+Passado. Encontrado. Encontrado.
+
+Lá. Olhando. O que o cara fez.
+
+Ou o que o cara não fez. Eles. Com uma olhada na tela.
+
+Iam saber. Se o cara naquele dia. Ele fez algo.
+
+Entendeu? E se a carteira dele. Tá atendendo. Pras metas.
+
+Que ele colocou. Como aí embaixo tem. É... Operações.
+
+Realizado. Optional. Desembolso.
+
+Realizado. E aqui. Poderia ter colocado também.
+
+Aqueles frufru. De gráficozinho. Que vai completando.
+
+Mas aí ele não quis. Ele só quis o dado mesmo. Pra mostrar.
+
+Entendeu? Aí eu fiz do jeito que ele pediu. Aí. Aí em cima tem as caixas.
+
+As caixas de seleção. Que você pode selecionar um especialista. Seria um funcionário.
+
+Aí. É... Depende. Né.
+
+Se for. Eram duas. Né.
+
+Dois pontos. O de glória. E o de.
+
+Lagarto. Aí o de glória fechou primeiro. E agora.
+
+O de lagarto. O Itaú tá mudando lá aqui. Tá.
+
+Mudando o mecanismo lá. E tá. Diferente agora.
+
+É isso. Legal. Bom.
+
+Boa informação. Nós estávamos. Discutindo aí.
+
+Eu tava morrendo. Aproveitei. Pra.
+
+Pedir aqui pro nosso amigo. Lé. Que ficou.
+
+Mais chato do que. Que. Que.
+
+Que. Que. Que.
+
+O que rapaz. O que que que. O rapaz não falou o que que.
+
+Por que você falou o que que. Porque tava baixo. Aí.
+
+Ô não. Tava no baixo mesmo. Ele separou as perguntinhas.
+
+Eu te mando o doninho do score tá? Manda aí. Manda aí. Não.
+
+Não sou colégio. Eu sou o Urak. Oxe.
+
+eu mandei muita coisa sei mas como a gente vai fazer isso aqui tem que montar o relatório o relatório foi o principal, a usuária é boa de montar Relatório? É, eu não fui a cara de fazer o que eu mandei aqui em cima, eu mandei as primeiras imagens Oi Igor, mas só para te falar aqui, você desenvolveu sozinho então? Oi? Você desenvolveu sozinho, não teve nenhuma ajuda externa? Não, não Não porque o que mais pesou nesse desenvolvimento, com o Power BI você mexendo você aprende O que não teria como eu ter aprendido de uma hora para outra foi o Excel que eu já mandava O Excel foi o que, porque eu organizei os dados tudo com o Excel, as fórmulas tudo, entendeu? Eu tenho aqui um exemplo de base porque eu não posso mandar porque aí realmente os dados são sensíveis Eu já sei o que eu faço Mas eu posso compartilhar a tela para mostrar para vocês como é Mostra aí Deixa eu compartilhar aqui Deixa eu entrar aqui Jovem preso em Segui por um azar dado em uma empresa de microfélicos Ah não, não é o negócio desse não O que é esse Gabriel? Esse que está com a foto do Putin aí, é o Gabriel marrom ou é o Gabriel tranquilo? É o que passou entre artistas, rapaz Ei, bisu Bicho com bisu Ei, ei, ei Eu não esqueci não velho, quando você falou que eu ia reprovar indiscreto Você acha que eu esqueci? Você passou ali rastando em paz Mas passei, sem precisar pedir ponto Rastando, rastando O cara me deixou, me largou nas trincheiras Mas ele colocou a minha nota velho, isso aí foi o que fez, não, está sem a nota Rapaz, eu acho que você está mentindo para mim, porque ela já lançou a nota lá, você tirou 5 e alguma coisa Eu vou mandar a foto do cigarro para você ver 5 ou 6, eu pensei, eu dei 5, eu tirava 5 ou 6 em Gabriel também Nossa, eu tiro 5 ou 6 mano, aí velho Você vai pular na ponte, você falou Não, pô Pois é, eu respondi uma e meia Então Uma e meia não né, porque, acertei Uma toda e outra, mais da metade Aí velho, deu uma olhada Não pô, você deixou eu reprovar, você vai tirar um 5 velho O cara não quis botar meu nome na boca Eu pensei que eu ia tirar um 10 Estavas Estão vendo aí a foto? Estou vendo sim Vou só achar aqui uma Nossa, peraí, o que é isso aqui? Aqui vai ter nomes caralho, vai aí também Liga logo Algum de vocês vagabundo Não pode né É ela Nossa Já tirei uns prints aqui pra vocês verem Ricão Chantageado Ricão Oi, vou dizer um negócio pra vocês A dificuldade do problema que você resolve, não é diretamente proporcional ao dinheiro que você recebe As vezes você faz uma coisa muito mais simples e ganha mais dinheiro Isso daí é uma verdade universal na nossa área Pronto, basicamente a administrativa pegava o P, ela puxava os dados lá do sistema Que eles já colocavam Aí por exemplo, dados de inadimplência, ela chegava e copiava aqui, tá vendo? Ela jogava tudo aqui, aqui a aba de inadimplência Aí aqui tem as situações, em atraso, longo, pago Ou por exemplo, se repetisse um contrato aqui, vamos dizer, eu pegasse esse contrato e botasse aqui Aí já sinalizava, tá vendo? Não pode ser repetido Aí, com todos os dados aqui, né? Aqui a carteira de renegociação, que gera dados de renegociação do sistema lá no print No print lá da ferramenta pra vocês Operação de desembolso, que tem basicamente uma fórmula que conta o número de operações e a quantidade do... Que foi contratado, né? O respectivo dia, quantidade de maquininhas, porque aqui tá zerado, não sei porquê Tá zerado porque eu não vendi, né? Aqui, pronto, aqui é o que resume tudo, o dashboard Aqui é onde estão todas as fórmulas, tá vendo? Espera aí, é porque aqui tá setado Basicamente, toda vez que terminava o dia, ela setava, transformava a fórmula em valor Aí, nesses daqui inicial, vocês não vão ver fórmulas Mas aí, quando descer lá pra baixo Vai ter fórmula Espera aí Até... Não tiver mais valor Aqui, aqui já tem fórmulas São essas fórmulas aqui que definem Que vai puxar os valores dessas outras áreas, entendeu? Vocês estão vendo aí, não? Por exemplo, essa fórmula aqui, ó Ela tá fazendo uma contagem Da coluna I, I, da aba desembolso Filtrado por data, tal, tal, tal, tal, tal, tal Se não tiver nada, não aparece Se tiver zero, não aparece nada Eu botei isso pra ficar tudo em zeros aqui Aí aqui, é... A filtragem da coluna de somas, que aí tem os critérios colocados aqui A de inadepência, que realmente foi uma complicadinha de fazer A de maquininhas, que é relativamente simples Aqui o nome do especialista Aqui eu colocava as metas, que o... Pronto, olha, essas metas aqui O próprio dono, ou então a administrativa, podia colocar Mas eu sempre colocava porque eles tinham receio de mexer aqui Porque aqui é a parte que afeta diretamente o dashboard, entendeu? Aí nessa aba, o mexer era eu Porque era a parte de fórmulas Aí essa parte, você vai dar mensalmente Toda vez, todo mês, sem mês Tô ligado, pronto, pronto Eu já peguei a informação, já Agora que eu acho que eu só vou poder mostrar isso daqui Só apagar os nomes, aí se eu for levar pra lá Eu posso apagar os nomes todos, entendeu? Eu apago os nomes de especialista E de inadepência, daqui Do pessoal aqui, tudo aí, o nome completo Aí pronto, dá pra levar pra lá É, acho que não precisa não, disso aí, você vai ser sério, né? Eu acho que só o relatório do BI lá encontrava E também, o que pode ser mostrado Que aí realmente é da ferramenta Aqui seria a base de dados É o próprio API E é onde é desenvolvido, né? Eu acho que isso daqui era o melhor bem possível Entendi Deixa eu entrar aqui que meu notebook não é igual ao do Gabriel não O meu notebook sofre um pouquinho O meu notebook não é igual ao do Gabriel Oi? O meu notebook vai quebrar, vai cair Poxa, isso é a dúvida É isso, é isso, peraí Tem que esperar um pouco Vai Já levou, já levou Aqui, ó, já fica melhor visualizado, tá vendo? Como funcionava É melhor mostrar lá, né? É, entendi Aí, olha, o ambiente do Pipe.AI, ele tem esse indicador Dá pra explicar esse lado lá, né? Não Tipo assim, explicar não, mostrar Mostrar, então Por exemplo, isso daqui, ó Vem daqui Só é você selecionar Criar Basicamente A fórmula que vai definir como ele vai ser mostrado Aí, ó, essa parte aqui de gráfico Ela não existe no Power BI nativamente Por isso que aqui tá pedindo uma licença Você tem que adquirir por fora Aí, no caso, eu falei Porque assim, era uma coisa que o dono queria, né? De uma forma Aí eu disse, ó, nativamente não tem como Você teria que pagar uma assinatura de outra ferramenta por fora Aí tem uma lojinha aqui chamada Você vai aqui, obter mais visuais Só que aqui eu teria que entrar com o e-mail Aí é uma lojinha da Microsoft Em que as pessoas As empresas, né? Colocam suas, como se fossem os add-ons Pra adicionar mais funcionalidades a esse tipo de ferramenta aqui De gráficos, de linkadores, etc E aí você... Você procura pra adicionar mais funcionalidades Isso, isso Aí, pronto Aqui é onde você faz tudo Você anexa a base de dados Anexa o servidor Cria medidas pra... Pra determinada coluna Pra mostrar os resultados É aqui que você faz tudo Entendi, entendi É pra gente ir mostrando, assim Você consegue levar sua nota em Google Pra mostrar isso aí? Ah, consigo, consigo Agora você apaga só os valores, talvez, né? Não, mas aqui eu posso... Eu posso ficar com isso Ah, pronto Não precisa a gente dizer Aqui não tem nada sensível, não Só é dizer que aqui a gente acabou tudo De uma... De uma nova planilha Aqui eu só mudaria o nome Dos especialistas, que realmente tá, tá vendo? Ah, pronto, pronto Pode ser, então Na hora você... Na hora você mostra o sistema novo O sistema novo Você tinha como selecionar As variáveis Legal Então eu vou apagar elas pra ficar... Só ver o que te interessa É, agora a gente vai A gente vai montando agora o... A apresentação e o coisa Em cima do Do que eu mandei no Whatsapp Pra se gostou, deixa eu responder aqui Trabalhar em cima É pelo pesado Ainda pra trabalhar em cima Seguei o que eu mandei, tá ligado? As perguntinhas aqui A gente tem que fazer o seguinte Ingo, eu não sei se você viu no Whatsapp Uma das perguntas aí E teve muitas perguntas Vamos fazer assim Eu quero deixar um aparelho pra você Então deixa eu apontar o seu relatório Com um aparelho pra você Seleciona uma das perguntas boas Seleciona as perguntas que você acha que dá pra responder Alguém tá com áudio? Não, é o... É a transmissão sua Se você parar a transmissão, para Ou você abaixa o volume da transmissão Pode parar agora que já não vai puxar mais É, já tá de boa Já tá de boa Você tem que tomar o pau Pra... Uma coisa negra Não parou não Não parou de compartilhar não Ah, eu contei pra vocês olharem o meu Whatsapp Pera aí Não, não tô ligando pra isso não Só pra falar que você não pode compartilhar não Pera aí, eu tô procurando aqui Que porra é essa Vai morrer, vai morrer É, pô, aí é isso Ah, não tava mexendo não Tava olhando outra coisa aqui no celular Ah, eu sei E contigo tá parecendo um idoso Porque nós não estamos no Discord Então, vamos lá Ele vai Falar pra vocês Eu sou muito Discord, eu sou um idoso mesmo A última vez que eu usei o Discord foi pra jogar Free Fire Por tão tempo da luta E ainda Free Fire A última vez que eu usei o Discord Foi pra fazer GS Que porra é GS GS GS, ninguém sabe o que é Estragou a piada Eu tô me sentindo um velho Eu sei o que é isso GS Ih, eu sei o que é É brincadeira Que porra é GS Ah, tá Ai, você viu quantas semanas você gosta Puta que pariu Vai É piada, né mano Já falaram aqui Não, tô de menino pra nada Agora, fala aí com essa foto de anime, pai Geralmente quem pratica isso Tem certo foto de anime, velho Rapaz O que é isso O que é isso Que é isso Que que é isso Gente Que que é isso Baby E pronto, tem que escolher então aqui uma dessas perguntas, não é Anderson? Eu tô montando um negocinho aqui na minha cabeça, não tinha ideia. Por exemplo, tem que ser as perguntas 10 e aqui as perguntas no mínimo, acho, não é mesmo? Se você responder, fica... Arrombei. Então se você... Ah, assim.
+
+Você responde escrita, né? É, você pode responder escrita, porque é melhor pra gente... É melhor... É melhor... É melhor, tipo, eu já dei o panorama de como foi, aí o resto eu boto tudo escrita e... A gente passa por regatório e tudo. Exato. Eu precisava entender, tá ligado? Eu precisava entender como é que funcionava pra poder casar a pergunta alguma coisa.
+
+Que todo mundo sabia como é que funcionou, né? A mudança e tal. É, e o foda é que nem todo mundo tá aqui, né, velho? Tá faltando o quê? Não, mas sabe, aí qualquer coisa... Um dia, com o Rebus, a gente faz uma... Uma reunião e tipo, eu explico um panorama lá geral e pronto, o caso é assim. E a gente só vai decidir como vai ser a apresentação quando fizer o slide, velho.
+
+Porque a gente decide o que cada um vai falar, sabe? A gente vai ter que distinchar... Isso, isso, exato. Eu tô fazendo aqui agora o que? Montando algumas tarefinhas pra gente fazer que é pra poder colocar no relatório, o que ela pediu. Ela pediu que o relatório que todo mundo participou, entendeu? E o que cada pessoa fez.
+
+Aí tem que ter isso no relatório, o que eu tô fazendo. Você vai colocar umas tarefinhas aqui pra cada um pra gente fazer ou fingir que fazer, pelo menos, pra poder colocar no relatório. Ah, é. Mano, o importante é tirar dois pontos, velho.
+
+Tira dois pontos e tá... Isso me enverra, bicho. Pois não. Aí dois... Um dois eu não faço nem nem por asfalto, nem por anota, pô.
+
+Não é só anota, pô. Ai, ai. Tem que fazer estatística de noite.
+
+Tô triste.
+
+(Este arquivo tem mais de 30 minutos. Atualize para Ilimitado em TurboScribe.ai para transcrever arquivos de até 10 horas.)

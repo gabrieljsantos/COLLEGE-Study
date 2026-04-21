@@ -1,0 +1,137 @@
+Determinar o comprimento de onda médio das radiações características que compõem a luz branca, utilizando redes de difração com 1000 fendas/mm e 600 fendas/mm.
+Materiais Utilizados
+1) Banco Óptico;
+2) Fonte de luz branca;
+3) Mesa suporte acoplável ao cavaleiro;
+4) Cavaleiro magnético;
+5) Grade de difração (1000 fendas/mm e 600 fendas/mm);
+6) Painel ótico;
+7) Régua branca com fixador magnético e escala de 350-0-350 mm;
+8) Trena de 5 m; 
+
+A figura 2 mostra o aparato experimental juntamente com os materiais utilizados para a realização do experimento.
+Figura 2: Aparato experimental utilizado no experimento.
+
+Fonte: Autor.
+
+
+Procedimento Experimental
+De início, o aparato experimental foi montado conforme descrito no guia [6]. Ao montar o experimento a lanterna da fonte de luz-branca foi ligada e focalizada de maneira que incidisse no centro do anteparo fixo. Logo após foi adicionado a rede de difração de 1000 fendas/mm, ao ligar a luz branca que incidiu na grade de difração foi possível observar a dispersão da luz branca nas cores violeta, azul, ciano, verde, amarelo, laranja e vermelho. Como pode ser visto na figura 3. As observações foram realizadas. Além disso, foi medida a distância da grade de difração até o aparato fixo e também a distância entre o ponto médio de cada cor nos primeiros máximos observados. Esse procedimento foi repetido 3 vezes, visando resultados mais precisos.
+
+Figura 3: Luz branca sendo dispersada pela grade de difração de 1000 fendas/mm.
+
+Fonte: Autor
+
+Por fim, a grade de difração de 600 fendas/mm foi adicionada e observada para o estudo (como é possível observar na figura 4). Os procedimentos da medida da distância da grade para o anteparo se repetiram, juntamente com a medida da distância entre o ponto médio de cada cor nos primeiros máximos observados. Só que nesse caso, isso apenas foi realizado uma única vez.
+
+
+
+
+
+
+
+
+Figura 4: Luz branca sendo dispersada pela grade de difração de 600 fendas/mm.
+
+Fonte: Autor
+
+Resultados e Discussão
+Quando a luz foi direcionada diretamente para o anteparo, foi possível observar um feixe luminoso branco altamente concentrado no centro. No entanto, ao adicionar as redes de difração, ocorreu uma separação notável da luz branca, resultando na visualização de um espectro de cores que se iniciava com o violeta e se estendia até o vermelho. Vale ressaltar que cada rede de difração proporcionava um nível diferente de nitidez na formação das imagens. Com base nas imagens formadas através dessas redes, conduzimos as medidas necessárias para a análise do experimento.
+Todas as medidas realizadas durante o procedimento experimental serão apresentadas em duas tabelas distintas. Na Tabela 1, estão registrados os dados referentes à primeira configuração da rede de difração, que tinha uma densidade de 1000 fendas por milímetro (fendas/mm), cujo a distância entre as fendas (d) corresponde a 1 , a distância entre a rede de difração e o anteparo onde as cores são projetadas (z), bem como as incertezas associadas (σz). Além disso, a Tabela 1 também identificará a cor da luz observada e a distância do centro até a projeção de cada cor no anteparo, expressa como o dobro desta medida (2x), juntamente com as incertezas correspondentes (σ2x).
+Na Tabela 2 temos mesmo esquema de dados da Tabela 1, com a ressalva que serão apresentados os dados relativos à segunda configuração da rede de difração, na qual a densidade de fendas era menor, com 600 fendas por milímetro (N fendas/mm), qual a distância entre as fendas (d) era de 1,67 micrômetros ().
+Tabela 1: Medições e Parâmetros no Experimento de Difração da Luz relacionados a rede de difração com densidade de 1000 fendas.
+z (mm)	194	140	300
+	1	1	1
+Cor	2x	σ2x	2x	σ2x	2x	σ2x
+Violeta	50	5	110	5	250	5
+Azul	90	6	130	5	310	5
+Ciano	120	7	150	5	345	10
+Verde	165	5	175	5	380	10
+Amarelo	205	10	210	10	440	10
+Laranja	280	10	235	10	500	10
+Vermelho	335	10	290	10	560	10
+Tabela 2: Medições e Parâmetros no Experimento de Difração da Luz relacionados a rede de difração com densidade de 600 fendas.
+z (mm)	140		1
+
+Cor	2x	σ2x	Cor	2x	σ2x
+Violeta	110	5	Amarelo	170	5
+Azul	125	5	Laranja	190	5
+Ciano	140	5	Vermelho	220	5
+Verde	150	5	
+Conforme mencionado anteriormente, as tabelas anteriores apresentam os dados assim como foram obtidos, e nada pode ser concluído com os mesmos até então, requerendo um processamento adicional, incluindo a determinação dos valores de cada x e suas respectivas incertezas, visto que as medições foram feitas em relação ao dobro da distância. O primeiro passo consistiu em calcular o proprio, apenas dividindo por 2, depois sua incerteza com:
+
+Ou seja, apenas foi necessário dividir todas incertezas por dois, e assim foi feito para as medidas da Tabela 1 e 2, e com os resultados foi confeccionado, respectivamente correspondente, às tabelas 3 e 4. 
+Tabela 3:  Resultados de cada x de cada cor, relacionados a rede de difração da Luz relacionados a rede de difração com densidade de 1000 fendas.
+z (mm)	194	140	300
+	1	1	1
+Cor	x (mm)	σx (mm)	x (mm)	σx (mm)	x (mm)	σx (mm)
+Violeta	25	3	55	3	125	3
+Azul	45	3	65	3	155	3
+Ciano	60	4	75	3	173	5
+Verde	83	3	88	3	190	5
+Amarelo	103	5	105	5	220	5
+Laranja	140	5	118	5	250	5
+Vermelho	168	5	145	5	280	5
+Tabela 4: Resultados de cada x de cada cor, relacionados a rede de difração com densidade de 600 fendas.
+z (mm)	140		1
+
+Cor	x (mm)	σx (mm)	Cor	x (mm)	σx (mm)
+Violeta	55	3	Amarelo	85	3
+Azul	63	3	Laranja	95	3
+Ciano	70	3	Vermelho	110	3
+Verde	75	3	
+
+Mas ainda não é só isso, foi preciso manipular a relação de difração para chegar até a expressão que define o comprimento de onda para cada cor:
+
+Como trabalhamos apenas com o primeiro máximo, ou seja, com a primeira posição de interferência construtiva para cada cor, o m é igual a 1, simplificando para:
+
+	Neste momento, percebemos que não tínhamos o valor do ângulo, porém, considerando as relações trigonométricas, sabíamos que o z é o cateto adjacente e o x é cateto oposto, como pode ser visto na figura 5.
+Figura 5: Ilustração da trigonometria envolvida na projeção de luz por base da difração.
+
+Fonte: Autor
+Desta forma, 
+
+Portanto, o comprimento de onda é dado por:
+
+
+	No caso de sa incerteza, será:
+
+	E com todos os resultados  de comprimento de onda e sua respectiva incerteza, foi confeccionado a Tabela 5 e 6, respectivamente correspondente a cada fenda usada.
+Tabela 5: Comprimentos de onda para cada valor de z em relação a cada cor, refere-se ao uso da rede de difração de 1000 fendas / mm.
+z (mm)	194	140	300
+Comprimentos de onda (nm)
+Cor						
+Violeta	127,8	0,7	366	2	385	1
+Azul	226	1	421	3	459	1
+Ciano	295	1	472	3	498	1
+Verde	391	2	530	3	535	1
+Amarelo	467	2	600	3	591	1
+Laranja	585	2	643	3	640	1
+Vermelho	654	2	719	3	682	1
+Tabela 6: Comprimentos de onda para cada valor de z em relação a cada cor, refere-se ao uso da rede de difração de 600 fendas / mm.
+Comprimentos de onda (nm)
+Cor		
+Violeta	127,8	0,7
+Azul	226	1
+Ciano	295	1
+Verde	391	2
+Amarelo	467	2
+Laranja	585	2
+Vermelho	654	2
+Em relação aos comprimentos de onda que foram calculados para o grupo de medidas de da grade de 1000 fendas por milímetro, é possível perceber que existe 3 valores para cada cor, desta forma, será feito a média, junto também de sua propagação média, dada por:
+
+	E com todos os resultados finais somado ao que encontrado na literatura, foi feito a Tabela 7:
+Tabela 7: Resultados finais de todos os comprimentos de onda em nanômetros.
+	Experimental	Teórico
+	1000 fendas/mm	600 fendas/mm	
+Cor			 	 	 
+Violeta	293	1	127,8	0,7	410
+Azul	369	1	226	1	470
+Ciano	422	1	295	1	532
+Verde	485	1	391	2	580
+Amarelo	553	1	467	2	605
+Laranja	623	1	585	2	625
+Vermelho	685	1	654	2	660
+Conclusão 
+	Na análise dos resultados experimentais em comparação com os valores teóricos para as configurações de 1000 fendas/mm e 600 fendas/mm, é evidente que os valores experimentais não se aproximam dos valores teóricos esperados. Nota-se uma discrepância significativa entre os dois conjuntos de dados, o que sugere a possibilidade de confusão ou erros durante o registro de dados experimentais. A principal suspeita é que o valor z=194mm esteja equivocado, já que é possível perceber que os comprimentos de onda relacionados a rede de difração de 1000 fendas/milímetro, ou seja, para z=140 mm e z=300mm os comprimentos de onda indicam coerência com o teórico.Em relação aos comprimentos de onda relacionados à rede de difração de 600 fendas/mm, não há uma justificativa precisa para a discrepância observada. Suspeitamos que essa disparidade possa ter ocorrido devido a possíveis erros na captura de dados.
+Contudo, não foi possível aplicar e entender, com eficiência, os conceitos do fenômeno de dispersão da luz branca, pois não foi possível determinar com precisão os comprimentos de onda médios das radiações luminosas que compõem a luz branca. Portanto, a falta de concordância entre os valores experimentais e teóricos destaca a importância de uma análise mais rigorosa e uma revisão cuidadosa do procedimento experimental para identificar possíveis fontes de erro e melhorar a precisão das medições em futuras execuções do experimento.anca, utilizando essa rede de difração.
